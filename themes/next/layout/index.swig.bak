@@ -11,11 +11,13 @@
 {% block content %}
   <section id="posts" class="posts-expand">
     {% for post in page.posts %}
-        {% if post.notshow != true %}
-            {{ post_template.render(post, true) }}
-        {% endif %}
+      {{ post_template.render(post, true) }}
     {% endfor %}
   </section>
 
   {% include '_partials/pagination.swig' %}
+{% endblock %}
+
+{% block sidebar %}
+  {{ sidebar_template.render(false) }}
 {% endblock %}
