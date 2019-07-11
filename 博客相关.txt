@@ -1,0 +1,30 @@
+优化地址：https://blog.csdn.net/nightmare_dimple/article/details/86661502
+
+微博地址：http://weibo.com/71983348
+知乎地址：zhihu.com/people/hadon
+博客地址：
+https://HadonWan.coding.me/
+https://hadonwan.coding.me/2019/07/02/HadonWan-s-CV/
+
+码云地址：
+https://gitee.com/hadonwan/HadonWan.git
+
+生成公钥：
+ssh-keygen -t rsa -C  hadonwan@outlook.com
+
+博客更新上传命令
+hexo clean && hexo g && hexo d
+hexo clean 清理缓存
+hexo generate 命令来生成静态网页
+hexo server 启动本地服务器
+hexo deploy git到服务器
+
+hexo clean && hexo g && hexo s
+
+在文章YAML头信息中添加images字段，将值填为/images/imagename.jpg。
+
+images: "images/文章摘要配图/Win10桌面.png"
+
+# 简历链接 URL
+http://localhost:4000/2019/07/02/HadonWan-s-CV/
+
