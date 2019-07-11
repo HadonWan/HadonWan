@@ -2,12 +2,19 @@
 
 微博地址：http://weibo.com/71983348
 知乎地址：zhihu.com/people/hadon
-博客地址：
+
+github仓库地址：
+https://github.com/HadonWan/HadonWan.git
+git remote add github git@github.com:HadonWan/HadonWan.git
+
+coding博客地址：
 https://HadonWan.coding.me/
 https://hadonwan.coding.me/2019/07/02/HadonWan-s-CV/
 
 码云地址：
 https://gitee.com/hadonwan/HadonWan.git
+git remote add origin https://gitee.com/hadonwan/HadonWan.git
+博客地址：  http://hadonwan.gitee.io
 
 生成公钥：
 ssh-keygen -t rsa -C  hadonwan@outlook.com

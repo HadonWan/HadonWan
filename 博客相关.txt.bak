@@ -6,6 +6,9 @@
 https://HadonWan.coding.me/
 https://hadonwan.coding.me/2019/07/02/HadonWan-s-CV/
 
+码云地址：
+https://gitee.com/hadonwan/HadonWan.git
+
 生成公钥：
 ssh-keygen -t rsa -C  hadonwan@outlook.com
 
