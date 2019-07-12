@@ -92,5 +92,3 @@ index2_generator:
 deploy:
   type: git
   repo: git@git.dev.tencent.com:HadonWan/HadonWan.git
-        git@github.com:HadonWan/HadonWan.git
-        git@gitee.com:HadonWan/HadonWan.git
